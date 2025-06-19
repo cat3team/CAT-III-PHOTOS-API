@@ -63,11 +63,11 @@ Have questions or need assistance? Join our thriving community!
 
 ### 🔗 EXTERNAL LINKS
 
-*   **GET YOUR API KEY:** [CREATE ACCOUNT](YOUR_ACCOUNT_CREATION_URL)
-*   **DISCORD SERVER:** [JOIN NOW](YOUR_DISCORD_INVITE_URL)
-*   **TERMS OF SERVICE:** [READ HERE](YOUR_TERMS_URL)
-*   **PRIVACY POLICY:** [READ HERE](YOUR_PRIVACY_URL)
-*   **IMPRESSUM:** [VIEW DETAILS](YOUR_IMPRESSUM_URL)
+*   **GET YOUR API KEY:** [CREATE ACCOUNT](https://www.cat3photos.com/signup)
+*   **DISCORD SERVER:** [JOIN NOW](https://www.cat3photos.com/discord)
+*   **TERMS OF SERVICE:** [READ HERE](https://www.cat3photos.com/api/tos)
+*   **PRIVACY POLICY:** [READ HERE](https://www.cat3photos.com/privacy-policy)
+*   **IMPRESSUM:** [VIEW DETAILS](https://www.cat3photos.com/imprint)
 
 ---
 
