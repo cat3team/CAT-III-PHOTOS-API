@@ -1,7 +1,6 @@
 # CAT III PHOTOS API
 
 ![CAT III Photos API Banner](https://www.cat3photos.com/api/apibanner.png) 
-*(Please replace with an actual banner image URL if available, otherwise consider removing this line)*
 
 ## INSTANT ACCESS TO STRUCTURED AIRCRAFT IMAGE DATA.
 
