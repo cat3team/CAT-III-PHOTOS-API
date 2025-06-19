@@ -17,7 +17,7 @@ Our focus is on delivering clean, precise, and up-to-date data, empowering you t
 
 For comprehensive documentation, API endpoints, detailed parameter explanations, response formats, and to obtain your **API key**, please visit our official documentation website:
 
-[**VIEW FULL API DOCUMENTATION & GET YOUR API KEY HERE**](https://www.cat3photos.com/api/documentation)
+[**VIEW FULL API DOCUMENTATION & GET YOUR API KEY HERE**](https://www.cat3photos.com/api/)
 
 ---
 
@@ -57,7 +57,7 @@ GET https://www.cat3photos.com/api/request.php?api_key=YOUR_API_KEY&registration
 
 Have questions or need assistance? Join our thriving community!
 
-*   **DISCORD COMMUNITY:** [JOIN OUR DISCORD SERVER](YOUR_DISCORD_INVITE_URL)
+*   **DISCORD COMMUNITY:** [JOIN OUR DISCORD SERVER](cat3photos.com/discord)
 *   **EMAIL SUPPORT:** `api@cat3photos.com`
 
 ---
